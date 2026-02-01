@@ -33,6 +33,7 @@ Database: SQL Server & Redis
 Tools: AutoMapper, Swagger UI, Stripe API
 
 ▶️ Getting Started
+
 Clone the repository.
 
 Update Connection Strings and Stripe Keys in appsettings.json.
