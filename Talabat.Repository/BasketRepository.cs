@@ -1,6 +1,5 @@
 ﻿using StackExchange.Redis;
-using System;
-using System.Collections.Generic;
+using System.Text.Json;
 using Talabat.Core.Entities;
 using Talabat.Core.Repositories.Contract;
 
